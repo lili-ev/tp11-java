@@ -3,7 +3,7 @@ Exercice 1 (Suite) : Manipulation et Suppression
 <img width="398" height="141" alt="Capture d&#39;écran 2026-11-13 210431" src="https://github.com/user-attachments/assets/bf218df8-3077-4c04-a0b5-5f54853f3e50" />
 
 
-Exercice 1 (Suite) : Manipulation et Suppression
+xercice 2 (Suite) : Implémentation du TaskManager
 
 <img width="399" height="102" alt="Capture d&#39;écran 2026-11-13 210704" src="https://github.com/user-attachments/assets/446ee07a-2786-406e-8ffa-898de3341d3c" />
 
