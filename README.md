@@ -8,7 +8,7 @@ xercice 2 (Suite) : Implémentation du TaskManager
 <img width="399" height="102" alt="Capture d&#39;écran 2026-11-13 210704" src="https://github.com/user-attachments/assets/446ee07a-2786-406e-8ffa-898de3341d3c" />
 
 
-Exercice 2 (Suite) : Implémentation du TaskManager
+Exercice 3 : Maîtrise des Set – Analyse de Mots Uniques
 
 <img width="374" height="81" alt="Capture d&#39;écran 2026-11-13 210835" src="https://github.com/user-attachments/assets/d8dfc289-0a06-4a9e-b68e-bb9f64a2a808" />
 
