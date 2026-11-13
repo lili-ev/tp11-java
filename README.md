@@ -13,7 +13,7 @@ Exercice 3 : Maîtrise des Set – Analyse de Mots Uniques
 <img width="374" height="81" alt="Capture d&#39;écran 2026-11-13 210835" src="https://github.com/user-attachments/assets/d8dfc289-0a06-4a9e-b68e-bb9f64a2a808" />
 
 
-Exercice 3 : Maîtrise des Set – Analyse de Mots Uniques
+Exercice 3 (Suite) : Comparaison des Implémentations de Set
 
 <img width="416" height="107" alt="Capture d&#39;écran 2026-11-13 210914" src="https://github.com/user-attachments/assets/fd5e9538-6f38-4431-8014-8d1fb419f49e" />
 
