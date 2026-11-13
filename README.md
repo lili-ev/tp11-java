@@ -23,16 +23,6 @@ Exercice 4 (Suite) : Exploration des Vues d'une Map
 <img width="359" height="119" alt="Capture d&#39;écran 2026-11-13 211603" src="https://github.com/user-attachments/assets/a67af0f4-4127-401f-b290-568ad2ce452f" />
 
 
-Exercice 4 : Dictionnaire Bilingue avec Map – Introduction
-
-<img width="436" height="107" alt="Capture d&#39;écran 2026-11-13 211857" src="https://github.com/user-attachments/assets/495a8b95-089f-47b5-a4e9-bad1205720e9" />
-
-
-Exercice 4 (Suite) : Exploration des Vues d'une Map
-
-<img width="402" height="125" alt="Capture d&#39;écran 2026-11-13 211959" src="https://github.com/user-attachments/assets/b8dabcac-ff57-4c5c-90c7-cb0a505ccd49" />
-
-
 Exercice 5 (Suite) : Restitution et Historique
 
 <img width="332" height="130" alt="Capture d&#39;écran 2026-11-13 212153" src="https://github.com/user-attachments/assets/710e3658-1e9c-456c-9a62-e4c0e7b7d612" />
