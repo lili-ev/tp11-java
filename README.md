@@ -18,7 +18,7 @@ Exercice 3 (Suite) : Comparaison des Implémentations de Set
 <img width="416" height="107" alt="Capture d&#39;écran 2026-11-13 210914" src="https://github.com/user-attachments/assets/fd5e9538-6f38-4431-8014-8d1fb419f49e" />
 
 
-Exercice 3 (Suite) : Comparaison des Implémentations de Set
+Exercice 4 (Suite) : Exploration des Vues d'une Map
 
 <img width="359" height="119" alt="Capture d&#39;écran 2026-11-13 211603" src="https://github.com/user-attachments/assets/a67af0f4-4127-401f-b290-568ad2ce452f" />
 
